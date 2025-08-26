@@ -1,5 +1,6 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 # Reg no:212223240071
+# Name :KEERTHIKA M P
 # Date:26.08.2025
 # AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
